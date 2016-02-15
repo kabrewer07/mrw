@@ -1,0 +1,2553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Extender 1.2.1\n"
+"POT-Creation-Date: 2013-07-29 23:12-0500\n"
+"PO-Revision-Date: 2013-07-29 23:12-0500\n"
+"Last-Translator: \n"
+"Language-Team: The Cobalt Apps Team <info@cobaltapps.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/admin/build-menu.php:28
+msgid "Extender Settings"
+msgstr ""
+
+#: lib/admin/build-menu.php:35
+msgid "Extender Custom"
+msgstr ""
+
+#: lib/admin/build-menu.php:56 lib/admin/boxes/custom-conditionals.php:75
+#: lib/admin/boxes/custom-conditionals.php:96
+#: lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-labels.php:79 lib/admin/boxes/custom-labels.php:92
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Name"
+msgstr ""
+
+#: lib/admin/build-menu.php:57 lib/admin/boxes/custom-templates.php:95
+#: lib/admin/boxes/custom-templates.php:117
+msgid "File Name"
+msgstr ""
+
+#: lib/admin/build-menu.php:58
+msgid "Template Name"
+msgstr ""
+
+#: lib/admin/build-menu.php:59 lib/admin/boxes/custom-templates.php:95
+#: lib/admin/boxes/custom-templates.php:117
+msgid "Template Type"
+msgstr ""
+
+#: lib/admin/build-menu.php:60 lib/admin/boxes/custom-labels.php:92
+msgid "Automatically create a Custom Conditional for this Label"
+msgstr ""
+
+#: lib/admin/build-menu.php:61 lib/admin/boxes/custom-conditionals.php:77
+#: lib/admin/boxes/custom-conditionals.php:98
+msgid "Tag"
+msgstr ""
+
+#: lib/admin/build-menu.php:62 lib/admin/boxes/custom-hook-boxes.php:97
+#: lib/admin/boxes/custom-hook-boxes.php:114
+#: lib/admin/boxes/custom-templates.php:103
+#: lib/admin/boxes/custom-templates.php:119
+msgid "[do_shortcode]"
+msgstr ""
+
+#: lib/admin/build-menu.php:63 lib/admin/boxes/custom-conditionals.php:79
+#: lib/admin/boxes/custom-conditionals.php:100
+#: lib/admin/boxes/custom-hook-boxes.php:97
+#: lib/admin/boxes/custom-hook-boxes.php:114
+#: lib/admin/boxes/custom-labels.php:81 lib/admin/boxes/custom-labels.php:93
+#: lib/admin/boxes/custom-templates.php:103
+#: lib/admin/boxes/custom-templates.php:119
+#: lib/admin/boxes/custom-widget-areas.php:79
+#: lib/admin/boxes/custom-widget-areas.php:93
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/build-menu.php:64 lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Hook"
+msgstr ""
+
+#: lib/admin/build-menu.php:65 lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Priority"
+msgstr ""
+
+#: lib/admin/build-menu.php:66 lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Hooked"
+msgstr ""
+
+#: lib/admin/build-menu.php:67 lib/admin/boxes/custom-hook-boxes.php:58
+#: lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-widget-areas.php:52
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Shortcode"
+msgstr ""
+
+#: lib/admin/build-menu.php:68 lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Both"
+msgstr ""
+
+#: lib/admin/build-menu.php:69 lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+msgid "CSS"
+msgstr ""
+
+#: lib/admin/build-menu.php:70 lib/admin/boxes/custom-hook-boxes.php:94
+#: lib/admin/boxes/custom-hook-boxes.php:111
+#: lib/admin/boxes/custom-widget-areas.php:76
+#: lib/admin/boxes/custom-widget-areas.php:90
+msgid "Deactivate"
+msgstr ""
+
+#: lib/admin/build-menu.php:71 lib/admin/boxes/custom-templates.php:95
+#: lib/admin/boxes/custom-templates.php:117
+msgid "Page Template"
+msgstr ""
+
+#: lib/admin/build-menu.php:72 lib/admin/boxes/custom-templates.php:95
+#: lib/admin/boxes/custom-templates.php:117
+msgid "WordPress Template"
+msgstr ""
+
+#: lib/admin/build-menu.php:73 lib/admin/boxes/custom-hook-boxes.php:97
+#: lib/admin/boxes/custom-hook-boxes.php:114
+#: lib/admin/boxes/custom-widget-areas.php:79
+#: lib/admin/boxes/custom-widget-areas.php:93
+msgid "Conditionals"
+msgstr ""
+
+#: lib/admin/build-menu.php:74 lib/admin/boxes/custom-widget-areas.php:79
+#: lib/admin/boxes/custom-widget-areas.php:93
+msgid "Class"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "[Pop-out &raquo;]"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "[&laquo; Pop-in]"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:22
+msgid "[Show/Hide Sidebar]"
+msgstr ""
+
+#: lib/admin/css-builder-popup.php:31
+#: lib/admin/genesis-extender-custom-options.php:85
+#: lib/admin/genesis-extender-settings.php:52
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:64
+msgid "Genesis Extender - Custom Options"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:67
+msgid "CSS Builder"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:71
+msgid "PHP Builder"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:112
+msgid "Custom Options Reset"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:118
+msgid "**This Will Reset ALL Your Extender Custom Options**"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:119
+msgid "Reset Custom Options"
+msgstr ""
+
+#: lib/admin/genesis-extender-custom-options.php:119
+msgid "Are you sure your want to reset your Genesis Extender Custom Options?"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:42
+msgid "Genesis Extender - Settings"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:75
+msgid "Plugin Settings Reset"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:81
+msgid "**This Will Reset ALL Your Genesis Extender Settings**"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:82
+msgid "Reset Plugin Settings"
+msgstr ""
+
+#: lib/admin/genesis-extender-settings.php:82
+msgid "Are you sure your want to reset your Genesis Extender Settings?"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:11
+#: lib/admin/boxes/settings-import-export.php:51
+#: lib/admin/boxes/settings-import-export.php:90
+msgid "Custom Conditionals"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:12
+#: lib/admin/boxes/custom-hook-boxes.php:11
+#: lib/admin/boxes/custom-labels.php:11
+#: lib/admin/boxes/custom-templates.php:11
+#: lib/admin/boxes/custom-widget-areas.php:11
+msgid "Add"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:15
+msgid "What Is A Conditional?"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:18
+msgid ""
+"These Conditional options are based on WordPress Conditional Tags which "
+"allow you to specify where you DO and DO NOT want your content to display. "
+"So by specifying is_page(), for example, you are saying I want my content to "
+"only display on your WordPress Pages (ie. not Posts, not Archives, etc..)."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:21
+msgid "Unlimited Possibilities!"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:24
+msgid ""
+"The Custom Conditional options, in conjunction with the Custom Widget Areas "
+"and Custom Hook Boxes features provide you with truly unlimited "
+"possibilities when it comes to displaying your content."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:27
+#: lib/admin/boxes/custom-hook-boxes.php:20
+#: lib/admin/boxes/custom-widget-areas.php:20
+msgid "How To Use..."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:30
+msgid ""
+"It couldn't be simpler. Just give your Custom Conditional a name and tag "
+"value and then click the big, blue \"Save Changes\" button and you're done. "
+"Then, when you're creating new Custom Widget Areas and Hook Boxes you can "
+"select different Conditionals to help fine tune the location of your content "
+"(if you do not select any Conditionals when create a Custom Widget Area or "
+"Hook Box your content will display on ALL pages by default)."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:33
+msgid "Conditional Examples"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:36
+msgid ""
+"To make things even easier for you we've provided you with an \"Examples:\" "
+"drop-down list to help get you started. Just select a Conditional Example "
+"and it will automatically fill in the values for you!"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:40
+#: lib/admin/boxes/settings-general.php:229
+msgid "Learn more here:"
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:49
+msgid "Custom Conditional successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-conditionals.php:53
+msgid "Custom Conditional successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:25
+msgid "Select/Insert [&raquo;] Elements to be styled:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:26
+#: lib/admin/boxes/custom-css-builder.php:33
+msgid "General Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:33
+msgid "Click an element #label to reveal list of Elements."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:36
+msgid "Body Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:44
+msgid "Inner Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:52
+msgid "Header Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:60
+msgid "Header Menu Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:68
+#: lib/admin/boxes/custom-css-builder.php:38
+msgid "Nav Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:76
+#: lib/admin/boxes/custom-css-builder.php:43
+msgid "Subnav Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:84
+msgid "Content Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:92
+msgid "Breadcrumb Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:100
+msgid "Taxonomy Description Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:108
+msgid "Author Description Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:116
+msgid "Author Box Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:124
+msgid "Comments Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:132
+msgid "Respond Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:140
+msgid "Sidebar Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:148
+msgid "Sidebar Alt Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:156
+msgid "Footer Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:164
+msgid "EZ Home Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:172
+msgid "Custom Widget Area Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:180
+msgid "Featured Post Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:188
+msgid "Featured Page Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:200
+#: lib/admin/boxes/custom-css-builder.php:69
+msgid "No-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:201
+#: lib/admin/boxes/custom-css-builder.php:70
+msgid "No-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:202
+#: lib/admin/boxes/custom-css-builder.php:71
+msgid "No-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:203
+#: lib/admin/boxes/custom-css-builder.php:72
+msgid "No-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:204
+#: lib/admin/boxes/custom-css-builder.php:73
+msgid "No-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:205
+#: lib/admin/boxes/custom-css-builder.php:74
+msgid "No-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:206
+#: lib/admin/boxes/custom-css-builder.php:75
+msgid "Horizontal-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:207
+#: lib/admin/boxes/custom-css-builder.php:76
+msgid "Horizontal-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:208
+#: lib/admin/boxes/custom-css-builder.php:77
+msgid "Horizontal-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:209
+#: lib/admin/boxes/custom-css-builder.php:78
+msgid "Horizontal-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:210
+#: lib/admin/boxes/custom-css-builder.php:79
+msgid "Horizontal-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:211
+#: lib/admin/boxes/custom-css-builder.php:80
+msgid "Horizontal-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:212
+#: lib/admin/boxes/custom-css-builder.php:81
+msgid "Vertical-Repeat Image (Left)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:213
+#: lib/admin/boxes/custom-css-builder.php:82
+msgid "Vertical-Repeat Image (Center)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:214
+#: lib/admin/boxes/custom-css-builder.php:83
+msgid "Vertical-Repeat Image (Right)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:215
+#: lib/admin/boxes/custom-css-builder.php:84
+msgid "Vertical-Repeat Image (Left Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:216
+#: lib/admin/boxes/custom-css-builder.php:85
+msgid "Vertical-Repeat Image (Center Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:217
+#: lib/admin/boxes/custom-css-builder.php:86
+msgid "Vertical-Repeat Image (Right Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:218
+#: lib/admin/boxes/custom-css-builder.php:87
+msgid "Horizontal & Vertical-Repeat Image"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:219
+#: lib/admin/boxes/custom-css-builder.php:88
+msgid "Horizontal & Vertical-Repeat Image (Fixed)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:220
+#: lib/admin/boxes/custom-css-builder-popup.php:239
+#: lib/admin/boxes/custom-css-builder.php:89
+#: lib/admin/boxes/custom-css-builder.php:105
+msgid "Type"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:221
+#: lib/admin/boxes/custom-css-builder-popup.php:228
+#: lib/admin/boxes/custom-css-builder-popup.php:253
+#: lib/admin/boxes/custom-css-builder-popup.php:433
+#: lib/admin/boxes/custom-css-builder-popup.php:443
+#: lib/admin/boxes/custom-css-builder.php:90
+#: lib/admin/boxes/custom-css-builder.php:94
+#: lib/admin/boxes/custom-css-builder.php:119
+#: lib/admin/boxes/custom-css-builder.php:299
+#: lib/admin/boxes/custom-css-builder.php:309
+msgid "Color"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:225
+#: lib/admin/boxes/custom-css-builder.php:91
+msgid "Image"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:233
+#: lib/admin/boxes/custom-css-builder.php:99
+msgid "Gradients? Check out this"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:233
+#: lib/admin/boxes/custom-css-builder.php:99
+msgid "CSS Gradient Generator &raquo;"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:241
+#: lib/admin/boxes/custom-css-builder.php:107
+msgid "Full"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:242
+#: lib/admin/boxes/custom-css-builder-popup.php:271
+#: lib/admin/boxes/custom-css-builder-popup.php:281
+#: lib/admin/boxes/custom-css-builder.php:108
+#: lib/admin/boxes/custom-css-builder.php:137
+#: lib/admin/boxes/custom-css-builder.php:147
+msgid "Top"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:243
+#: lib/admin/boxes/custom-css-builder-popup.php:275
+#: lib/admin/boxes/custom-css-builder-popup.php:285
+#: lib/admin/boxes/custom-css-builder.php:109
+#: lib/admin/boxes/custom-css-builder.php:141
+#: lib/admin/boxes/custom-css-builder.php:151
+msgid "Bottom"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:244
+#: lib/admin/boxes/custom-css-builder-popup.php:277
+#: lib/admin/boxes/custom-css-builder-popup.php:287
+#: lib/admin/boxes/custom-css-builder-popup.php:326
+#: lib/admin/boxes/custom-css-builder-popup.php:389
+#: lib/admin/boxes/custom-css-builder.php:110
+#: lib/admin/boxes/custom-css-builder.php:143
+#: lib/admin/boxes/custom-css-builder.php:153
+#: lib/admin/boxes/custom-css-builder.php:192
+#: lib/admin/boxes/custom-css-builder.php:255
+msgid "Left"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:245
+#: lib/admin/boxes/custom-css-builder-popup.php:273
+#: lib/admin/boxes/custom-css-builder-popup.php:283
+#: lib/admin/boxes/custom-css-builder-popup.php:328
+#: lib/admin/boxes/custom-css-builder-popup.php:390
+#: lib/admin/boxes/custom-css-builder.php:111
+#: lib/admin/boxes/custom-css-builder.php:139
+#: lib/admin/boxes/custom-css-builder.php:149
+#: lib/admin/boxes/custom-css-builder.php:194
+#: lib/admin/boxes/custom-css-builder.php:256
+msgid "Right"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:247
+#: lib/admin/boxes/custom-css-builder.php:113
+msgid "Thickness"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:248
+#: lib/admin/boxes/custom-css-builder-popup.php:311
+#: lib/admin/boxes/custom-css-builder-popup.php:377
+#: lib/admin/boxes/custom-css-builder-popup.php:381
+#: lib/admin/boxes/custom-css-builder-popup.php:385
+#: lib/admin/boxes/custom-css-builder.php:114
+#: lib/admin/boxes/custom-css-builder.php:177
+#: lib/admin/boxes/custom-css-builder.php:243
+#: lib/admin/boxes/custom-css-builder.php:247
+#: lib/admin/boxes/custom-css-builder.php:251
+#: lib/admin/boxes/settings-general.php:321
+#: lib/admin/boxes/settings-general.php:322
+#: lib/admin/boxes/settings-general.php:336
+#: lib/admin/boxes/settings-general.php:337
+#: lib/admin/boxes/settings-general.php:351
+#: lib/admin/boxes/settings-general.php:352
+#: lib/admin/boxes/settings-general.php:366
+#: lib/admin/boxes/settings-general.php:367
+#: lib/admin/boxes/settings-general.php:381
+#: lib/admin/boxes/settings-general.php:382
+msgid "px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:249
+#: lib/admin/boxes/custom-css-builder.php:115
+msgid "Style"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:257
+#: lib/admin/boxes/custom-css-builder.php:123
+msgid "Tp-Lft"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:259
+#: lib/admin/boxes/custom-css-builder.php:125
+msgid "Tp-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:261
+#: lib/admin/boxes/custom-css-builder.php:127
+msgid "Btm-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:263
+#: lib/admin/boxes/custom-css-builder.php:129
+msgid "Btm-Lft"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:297
+#: lib/admin/boxes/custom-css-builder.php:163
+msgid "Arial"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:298
+#: lib/admin/boxes/custom-css-builder.php:164
+msgid "Arial Black"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:299
+#: lib/admin/boxes/custom-css-builder.php:165
+msgid "Courier New"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:300
+#: lib/admin/boxes/custom-css-builder.php:166
+msgid "Georgia"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:301
+#: lib/admin/boxes/custom-css-builder.php:167
+msgid "Helvetica"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:302
+#: lib/admin/boxes/custom-css-builder.php:168
+msgid "Impact"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:303
+#: lib/admin/boxes/custom-css-builder.php:169
+msgid "Lucida Console"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:304
+#: lib/admin/boxes/custom-css-builder.php:170
+msgid "Lucida Sans Unicode"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:305
+#: lib/admin/boxes/custom-css-builder.php:171
+msgid "Tahoma"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:306
+#: lib/admin/boxes/custom-css-builder.php:172
+msgid "Times New Roman"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:307
+#: lib/admin/boxes/custom-css-builder.php:173
+msgid "Trebuchet MS"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:308
+#: lib/admin/boxes/custom-css-builder.php:174
+msgid "Verdana"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:316
+#: lib/admin/boxes/custom-css-builder-popup.php:321
+#: lib/admin/boxes/custom-css-builder.php:182
+#: lib/admin/boxes/custom-css-builder.php:187
+msgid "Normal"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:317
+#: lib/admin/boxes/custom-css-builder.php:183
+msgid "Bold"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:322
+#: lib/admin/boxes/custom-css-builder.php:188
+msgid "Italic"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:327
+#: lib/admin/boxes/custom-css-builder.php:193
+msgid "Center"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:332
+#: lib/admin/boxes/custom-css-builder-popup.php:388
+#: lib/admin/boxes/custom-css-builder.php:198
+#: lib/admin/boxes/custom-css-builder.php:254
+msgid "None"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:333
+#: lib/admin/boxes/custom-css-builder.php:199
+msgid "Uppercase"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:334
+#: lib/admin/boxes/custom-css-builder.php:200
+msgid "Lowercase"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:335
+#: lib/admin/boxes/custom-css-builder.php:201
+msgid "Capitalize"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:339
+#: lib/admin/boxes/custom-css-builder.php:205
+msgid ".5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:340
+#: lib/admin/boxes/custom-css-builder.php:206
+msgid "1px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:341
+#: lib/admin/boxes/custom-css-builder.php:207
+msgid "1.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:342
+#: lib/admin/boxes/custom-css-builder.php:208
+msgid "2px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:343
+#: lib/admin/boxes/custom-css-builder.php:209
+msgid "2.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:344
+#: lib/admin/boxes/custom-css-builder.php:210
+msgid "3px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:345
+#: lib/admin/boxes/custom-css-builder.php:211
+msgid "3.5px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:346
+#: lib/admin/boxes/custom-css-builder.php:212
+msgid "4px"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:350
+#: lib/admin/boxes/custom-css-builder.php:216
+msgid "100%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:351
+#: lib/admin/boxes/custom-css-builder.php:217
+msgid "110%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:352
+#: lib/admin/boxes/custom-css-builder.php:218
+msgid "120%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:353
+#: lib/admin/boxes/custom-css-builder.php:219
+msgid "130%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:354
+#: lib/admin/boxes/custom-css-builder.php:220
+msgid "140%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:355
+#: lib/admin/boxes/custom-css-builder.php:221
+msgid "150%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:356
+#: lib/admin/boxes/custom-css-builder.php:222
+msgid "160%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:357
+#: lib/admin/boxes/custom-css-builder.php:223
+msgid "170%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:358
+#: lib/admin/boxes/custom-css-builder.php:224
+msgid "180%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:359
+#: lib/admin/boxes/custom-css-builder.php:225
+msgid "190%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:360
+#: lib/admin/boxes/custom-css-builder.php:226
+msgid "200%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:364
+#: lib/admin/boxes/custom-css-builder-popup.php:402
+#: lib/admin/boxes/custom-css-builder.php:230
+#: lib/admin/boxes/custom-css-builder.php:268
+msgid "none"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:365
+#: lib/admin/boxes/custom-css-builder.php:231
+msgid "underline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:366
+#: lib/admin/boxes/custom-css-builder.php:232
+msgid "overline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:367
+#: lib/admin/boxes/custom-css-builder.php:233
+msgid "line-through"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:368
+#: lib/admin/boxes/custom-css-builder.php:234
+msgid "blink"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:369
+#: lib/admin/boxes/custom-css-builder-popup.php:398
+#: lib/admin/boxes/custom-css-builder-popup.php:418
+#: lib/admin/boxes/custom-css-builder.php:235
+#: lib/admin/boxes/custom-css-builder.php:264
+#: lib/admin/boxes/custom-css-builder.php:284
+msgid "inherit"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:379
+#: lib/admin/boxes/custom-css-builder-popup.php:383
+#: lib/admin/boxes/custom-css-builder.php:245
+#: lib/admin/boxes/custom-css-builder.php:249
+msgid "%"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:394
+#: lib/admin/boxes/custom-css-builder.php:260
+msgid "absolute"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:395
+#: lib/admin/boxes/custom-css-builder.php:261
+msgid "fixed"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:396
+#: lib/admin/boxes/custom-css-builder.php:262
+msgid "relative"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:397
+#: lib/admin/boxes/custom-css-builder.php:263
+msgid "static"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:403
+#: lib/admin/boxes/custom-css-builder.php:269
+msgid "block"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:404
+#: lib/admin/boxes/custom-css-builder.php:270
+msgid "inline"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:405
+#: lib/admin/boxes/custom-css-builder.php:271
+msgid "inline-block"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:406
+#: lib/admin/boxes/custom-css-builder.php:272
+msgid "inline-table"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:407
+#: lib/admin/boxes/custom-css-builder.php:273
+msgid "list-item"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:408
+#: lib/admin/boxes/custom-css-builder.php:274
+msgid "run-in"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:409
+#: lib/admin/boxes/custom-css-builder.php:275
+msgid "table"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:410
+#: lib/admin/boxes/custom-css-builder.php:276
+msgid "table-caption"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:411
+#: lib/admin/boxes/custom-css-builder.php:277
+msgid "table-cell"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:412
+#: lib/admin/boxes/custom-css-builder.php:278
+msgid "table-column"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:413
+#: lib/admin/boxes/custom-css-builder.php:279
+msgid "table-column-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:414
+#: lib/admin/boxes/custom-css-builder.php:280
+msgid "table-footer-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:415
+#: lib/admin/boxes/custom-css-builder.php:281
+msgid "table-header-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:416
+#: lib/admin/boxes/custom-css-builder.php:282
+msgid "table-row"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:417
+#: lib/admin/boxes/custom-css-builder.php:283
+msgid "table-row-group"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:425
+#: lib/admin/boxes/custom-css-builder-popup.php:437
+#: lib/admin/boxes/custom-css-builder.php:291
+#: lib/admin/boxes/custom-css-builder.php:303
+msgid "Lft-Rt"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:427
+#: lib/admin/boxes/custom-css-builder-popup.php:439
+#: lib/admin/boxes/custom-css-builder.php:293
+#: lib/admin/boxes/custom-css-builder.php:305
+msgid "Tp-Btm"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:429
+#: lib/admin/boxes/custom-css-builder-popup.php:441
+#: lib/admin/boxes/custom-css-builder.php:295
+#: lib/admin/boxes/custom-css-builder.php:307
+msgid "Blur"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:431
+#: lib/admin/boxes/custom-css-builder.php:297
+msgid "Spread"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:451
+msgid "Add scripts below to append them to the &lt;head&gt; of your site."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:452
+msgid "(eg. Linking to Google Font Stylesheets)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:461
+msgid "Current &lt;body&gt; classes for this page:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder-popup.php:463
+msgid "&lt;HTML&gt; of last clicked Element #label:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:11
+msgid "Custom CSS Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:14
+msgid "A CSS Building Tool"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:17
+msgid ""
+"The Custom CSS Builder is a great little tool that can be used as a simple "
+"reference or a full blown CSS coding factory."
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:32
+msgid "Select and Insert [&raquo;] Elements to be styled:"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:48
+msgid "EZ Widget Area Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:53
+msgid "Main Content Elements"
+msgstr ""
+
+#: lib/admin/boxes/custom-css-builder.php:59
+msgid "Currently Highlighted Element (via &lt;HTML&gt; Inspector)"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:11
+#: lib/admin/boxes/settings-import-export.php:36
+#: lib/admin/boxes/settings-import-export.php:75
+#: lib/functions/genesis-extender-build-styles.php:15
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:12
+msgid "Activate Front-end CSS Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:14
+msgid "Editor Only"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:19
+msgid "Powerful Custom CSS Tools"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:22
+msgid ""
+"To add Custom CSS to your Genesis Extender Powered website just add it below "
+"or Activate the Front-end CSS Builder feature. This will display a \"Show/"
+"Hide CSS Builder\" tab on the front-end of your website where you can click "
+"to display the CSS Builder Tool included with Genesis Extender."
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:26
+msgid ""
+"With this tool displaying on your site's front-end you will be able to "
+"utilize both the CSS Builder Tool as well as the Custom CSS Editor. But what "
+"makes this feature so intuitive and powerful is the fact that your CSS will "
+"result in real-time changes to the style of your website. Just add your "
+"Custom Styles and watch the changes take place as you type in the code!"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:29
+msgid "CSS Builder vs Custom CSS"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:32
+msgid ""
+"The \"CSS Builder\" section is only for helping you create the CSS. It is "
+"the \"Custom CSS Editor\" popup that actually provides a place to add/edit/"
+"save Custom CSS that will effect your site's design for all visitors."
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:36
+msgid ""
+"The CSS Builder changes are only temporary and the Custom CSS Editor changes "
+"are temporary until you click \"Save Changes\" to write them to your actual "
+"Custom Stylesheet. So no one but you will see these changes until you save "
+"them in the Custom CSS Editor."
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:39
+msgid "Editor Only?"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:42
+msgid "Just want a simple Front-end CSS Editor? Then select this option."
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:45
+msgid "Who Sees The CSS Builder Tool"
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:48
+msgid ""
+"To be able to see the \"Show/Hide CSS Builder\" tab, let alone be able to "
+"display and use the CSS Builder Tool, the \"Activate Front-end CSS Builder\" "
+"option must be selected and you must be currently logged in as an "
+"Administrator. So basically, no one but you will see these items."
+msgstr ""
+
+#: lib/admin/boxes/custom-css.php:53
+msgid "Click To View Front-end"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:11
+#: lib/admin/boxes/settings-import-export.php:39
+#: lib/admin/boxes/settings-import-export.php:78
+msgid "Custom Functions"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:12
+msgid "Affect Admin"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:17
+msgid "Custom PHP Functions"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:20
+msgid ""
+"Below you will find a simple solution for adding your own Custom PHP code to "
+"your site."
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:23
+msgid "Effect Admin?"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:26
+msgid ""
+"By default the Custom Functions you add below will only effect the front-end "
+"of your site to help prevent accidentally \"breaking\" your website with "
+"some bad code. But if you're confident in your coding abilities you can "
+"check this box to have your functions effect the Dashboard area (back-end "
+"admin section) as well."
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:29
+msgid "What If I Do \"Break\" My Site?"
+msgstr ""
+
+#: lib/admin/boxes/custom-functions.php:32
+msgid ""
+"If you've enabled the \"Effect Admin\" option and end up adding some code "
+"that temporarily \"breaks\" your site you can fix this by removing the bad "
+"code from your /wp-content/uploads/genesis-extender/plugin/custom-functions."
+"php file."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:11
+#: lib/admin/boxes/settings-import-export.php:57
+#: lib/admin/boxes/settings-import-export.php:96
+msgid "Custom Hook Boxes"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:14
+msgid "Taking WordPress Hooks To A Whole New Level!"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:17
+msgid ""
+"The Custom Hook Box option makes it not only super easy to create an "
+"unlimited number of Custom Hook Boxes, but then dictate their placement on "
+"your site using various Custom Conditionals (or if you don't want to "
+"restrict their placement just leave your Conditionals un-selected)."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:23
+msgid ""
+"Give your Custom Hook Box a Name, select a Hook Location from the drop-down "
+"menu provided and then, if you would like to restrict the types of pages/"
+"posts your Custom Hook Box Content displays on, you can select various "
+"Conditionals you've created by checking the boxes in the Conditionals drop-"
+"down menu. Those few steps are all you need to take to successfully create a "
+"Custom Hook Box. Finally it's just a matter of adding your custom content to "
+"the Hook Box Textarea. Here you can add any type of plain text and/or HTML "
+"and even javascript and PHP code!"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:26
+msgid "What Happens When You Change The Name of A Custom Hook Box?"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:29
+msgid ""
+"The name of a Custom Hook Box acts as it's ID so when you change that name "
+"it does not rename the Hook Box, but instead it creates a duplicate Custom "
+"Hook Box with the new name."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:32
+#: lib/admin/boxes/custom-widget-areas.php:38
+msgid "More Advanced..."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:35
+msgid ""
+"The Custom Hook Boxes option provides an advanced feature that you may find "
+"useful at some point. By setting a Priority you can gain even more control "
+"over the placement of your Custom Hook Boxes."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:39
+msgid ""
+"Sometimes you may add multiple Custom Hook Boxes and/or Custom Widget Areas "
+"to the same Hook Location. In these cases the Priority option becomes "
+"useful. When adding a Priority you should start with the number 10 as a "
+"baseline as this is usually the default Priority level in WordPress. You "
+"could give one Hook Box or Widget Area a Priority of 10 and another 11 or 9 "
+"and these Custom Content areas will display before or after accordingly."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:43
+msgid ""
+"Finally, you'll notice that you can easily turn these Custom Hook Boxes on "
+"or off with the \"Activate\" option. This is useful when you don't want to "
+"delete your Custom Hook Box, but would like to remove it from your site for "
+"the time being."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:46
+msgid "Can I Add PHP Code To My Custom Hook Boxes?"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:49
+msgid ""
+"Absolutely you can! Just be careful as you can temporarily \"break\" your "
+"site with incorrect PHP code."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:52
+msgid "\"Custom CSS Box!\""
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:55
+msgid ""
+"One very useful feature is the ability to simply add CSS code to your Custom "
+"Hook Box and have it automatically wrapped in the proper &#60;style&#62;"
+"tags&#60;/style&#62;, minified for greatest efficiency, and hooked into the "
+"wp_head hook location. And with the Custom Conditionals and Labels at your "
+"disposal you can easily control where these styles affect your website! To "
+"use this feature all you have to do is name your Hook Box, select \"CSS\" in "
+"the drop-down menu to the right of the \"Priority\" option and then add your "
+"CSS code to the Hook Box's textarea."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:61
+msgid ""
+"To use a Shortcode to display a Hook Box, use: [YOUR HOOK BOX NAME HERE] In "
+"other words, just take the Name you gave your Hook Box and wrap it in square "
+"brackets."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:64
+#: lib/admin/boxes/custom-templates.php:46
+msgid "[do_shortcode] Button"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:67
+msgid ""
+"To use shortcodes inside a Custom Hook Box you need to wrap the [shortcode] "
+"in the"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:68
+#: lib/admin/boxes/custom-templates.php:50
+msgid "do_shortcode() function"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:69
+#: lib/admin/boxes/custom-templates.php:51
+msgid ""
+". A quick and easy way to do this is to simply click on the [do_shortcode] "
+"button. That will automatically wrap any text it finds wrapped in square "
+"brackets with that do_shortcode() function."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:73
+msgid ""
+"<strong>Note</strong>, however, that there may be cases where square "
+"bracketed text is not shortcode text in which case you'd either need to "
+"manually add the do_shortcode() function to any actual shortcodes in that "
+"Hook Box or just make sure to remove the do_shortcode() function code that "
+"is wrapped around any non-shortcode text."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:76
+#: lib/admin/boxes/custom-templates.php:58
+#: lib/admin/boxes/custom-widget-areas.php:58
+msgid "**Important NOTE**"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:79
+msgid ""
+"Be sure that each of your Custom Hook Boxes has a name given to it. Failure "
+"to do this may result in the inability to Save your Custom Option settings."
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:97
+#: lib/admin/boxes/custom-templates.php:103
+msgid "View Only"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:97
+msgid "This Hook Box"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:97
+#: lib/admin/boxes/custom-templates.php:103
+msgid "View"
+msgstr ""
+
+#: lib/admin/boxes/custom-hook-boxes.php:97
+msgid "All Hook Boxes"
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:19
+msgid "Image Uploader: Images are uploaded to the"
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:19
+msgid "directory."
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:29
+msgid "Please wait, uploading image."
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:51
+msgid "Deselect All"
+msgstr ""
+
+#: lib/admin/boxes/custom-image-uploader.php:52
+msgid "Select All"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:11 lib/admin/boxes/custom-js.php:17
+msgid "Custom Javascript/jQuery"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:12
+msgid "Place In &lt;head&gt;"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:20
+msgid ""
+"Below you will find a simple solution for adding your own Custom JS code to "
+"your site. If the textarea below is left blank then no JS file will be "
+"enqueued to the front-end of your site."
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:23
+msgid "What Does \"Enqueue\" Mean?"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:26
+msgid "Using the"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:27
+msgid ""
+"<a href=\"http://codex.wordpress.org/Function_Reference/wp_enqueue_script\" "
+"target=\"_blank\">wp_enqueue_script</a>"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:28
+msgid "function is the proper way to add javascrip files to your site."
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:31
+msgid "Choosing Where To Enqueue Your JS File"
+msgstr ""
+
+#: lib/admin/boxes/custom-js.php:34
+msgid ""
+"If you've enabled the \"Place In &lt;head&gt;\" option then your JS file "
+"will be enqueued into your wp_head() hook location, placing in the &lt;"
+"head&gt; of your site. By default your JS file will be placed just above "
+"your closing &lt;/body&gt; tag."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:11
+#: lib/admin/boxes/settings-import-export.php:48
+#: lib/admin/boxes/settings-import-export.php:87
+msgid "Custom Labels"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:14
+msgid "Label your Pages and Posts for Ultimate Design Control!"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:17
+msgid ""
+"This unique feature provides you with the ability to essentially create "
+"portable customizations that can then be assigned to pages and posts with "
+"the click of your mouse."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:20
+msgid "How They Work"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:23
+msgid ""
+"To use Custom Labels you simply create a new label below by clicking \"Add\" "
+"and then fill in the \"Name\" value. Finally you save your change and wait "
+"for the page to reload revealing some further information about your new "
+"label like the Conditional Tag and Body Class. This information can then be "
+"used to create a new Custom Conditional for hooking in Custom Widget Areas "
+"and Hook Boxes as well as focusing your Custom CSS on your specific label "
+"through its unique Body Class."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:27
+msgid ""
+"After you've create your new Custom Label you can then select it on any "
+"individual Page, Post or Custom Post Type Post. Then that particular Page or "
+"Post will be uniquely affected by styles and content associated with that "
+"particular label."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:31
+msgid ""
+"What makes this Custom Label feature so powerful is that you can not only "
+"assign labels to your individual content areas, but you can assign as many "
+"labels to these page and posts as you like. Kind of like CSS classes these "
+"labels allow you to associate your customizations to multiple areas on your "
+"site all by simply checking a few boxes when adding/editing your posts and "
+"pages."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:34
+msgid "Naming Your Labels"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:37
+msgid ""
+"When naming your Labels feel free to use whatever naming convention you "
+"like. So for example, if your wanted to create a Label for a product page "
+"you could name it \"My Product Page\" or \"my product page\" or \"my-product-"
+"page\", etc..."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:40
+msgid "Setting Custom Layout Widths"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:43
+msgid ""
+"When you create a Custom Label with the name starting with \"Width\" and "
+"then follow it with a space and then your Content, Primary Sidebar and "
+"Secondary Sidebar widths you are creating a label that can be used to force "
+"specific Layout widths when a page or post is assigned that particular label."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:47
+msgid ""
+"So for example let's say that you have pages and/or posts with a Content/"
+"Sidebar/Sidebar layout and would like unique Content/Sidebar/Sidebar widths "
+"for that layout. In this case you could create a Custom Label with a name "
+"like this: \"Width 520 220 180\" (520 = Content width, 220 = Primary Sidebar "
+"width, 180 = Secondary Sidebar width). Of course the actual number values "
+"would vary, but you get the idea. And that same label would work for other "
+"double sidebar layout variants like Sidebar/Sidebar/Content or Sidebar/"
+"Content/Sidebar."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:51
+msgid ""
+"<strong>Note</strong> that if the Layouts that you will assign a particular "
+"label to are single sidebar layouts then you would only provide a width "
+"value for the Primary Sidebar like so: \"Width 520 220\". And for no sidebar "
+"layouts you would only provide a width value for the Content like so: "
+"\"Width 520\"."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:59
+msgid "Custom Label successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:63
+msgid "Custom Label successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:80
+msgid "Conditional Tag: <code>extender_has_label('"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:80
+msgid "')</code>"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:80
+msgid "Body Class: <code>label-"
+msgstr ""
+
+#: lib/admin/boxes/custom-labels.php:80
+msgid "</code>"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:11
+msgid "Custom PHP Builder"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:14
+msgid "A PHP Building Tool"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:17
+msgid ""
+"The Custom PHP Builder is a handy tool for both learning basic WordPress/"
+"Genesis PHP coding as well as quickly creating and grabbing useful PHP code "
+"snippets to customize your website."
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:20
+msgid "About Forcing Layouts"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:23
+msgid ""
+"By selecting a Layout in the provided drop-down list and then clicking the "
+"\"Insert Forced Layout\" button you will create a PHP code snippet that "
+"forces that particular Layout structure on any given page or post. This is "
+"especially useful when creating Custom Templates as it allows you to bypass "
+"the need for the Layout to be selected on a per-page basis."
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:26
+msgid "About The genesis() Function"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:29
+msgid ""
+"When creating Custom Templates, especially, the genesis() function is very "
+"commonly used at the end of the custom code. What this function does is call "
+"in all the necessary Genesis Framework code to build the page on your "
+"WordPress powered website. So what you can do is use your action and filter "
+"code to customize the way the page will display and then call this function "
+"in to finish the page building process."
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:32
+msgid "Please Note:"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:35
+msgid ""
+"When adding code to your Custom Functions you don't generally need to wrap "
+"your code in &#60;?php tags ?&#62;, but when adding PHP code to Custom "
+"Templates and Custom Hook Boxes you do need to make sure it's wrapped in "
+"&#60;?php Tags ?&#62;."
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:45
+msgid "add_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:46
+msgid "remove_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:47
+msgid "\"replace\"_action"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:48
+msgid "add_filter"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:51
+msgid "Actions"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:57
+msgid "Filters"
+msgstr ""
+
+#: lib/admin/boxes/custom-php-builder.php:71
+msgid "Layouts"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:11
+#: lib/admin/boxes/settings-import-export.php:45
+#: lib/admin/boxes/settings-import-export.php:84
+msgid "Custom Templates"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:14
+msgid "Custom Page and WordPress Templates the EASY way!"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:17
+msgid ""
+"When you create a Custom Template you can choose to either create a Page "
+"Template or a WordPress Template depending on your specific needs."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:20
+msgid "Page Template vs WordPress Template"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:23
+#: lib/admin/boxes/custom-templates.php:29
+msgid "A Custom"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:24
+msgid ""
+"<a href=\"http://codex.wordpress.org/Page_Templates\" target=\"_blank\">"
+"\"Page Template\"</a>"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:25
+msgid ""
+"is one that is selectable on a per-page basis. When this Template Type is "
+"selected your template file will be placed in your Child Theme's \"my-"
+"templates\" folder where WordPress will recognize it as a Page Template. "
+"Then when you create or edit a Page you can select it in the \"Page "
+"Attributes > Templates\" drop-down menu in the area to the right of the WP "
+"Page Editor."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:30
+msgid ""
+"<a href=\"http://codex.wordpress.org/Template_Hierarchy\" target=\"_blank\">"
+"\"WordPress Template\"</a>"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:31
+msgid ""
+"is a custom version of a default template file found in WordPress. For "
+"example you could create a custom version of the single.php file making it "
+"so all single posts take on your custom version of that template. Note that "
+"these types of templates will be placed in your Child Theme's root directory."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:34
+msgid "What Happens When You Change The File Name of A Custom Template?"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:37
+msgid ""
+"The file name of a Custom Template acts as it's ID so when you change that "
+"name it does not rename the Template, but instead it creates a duplicate "
+"Custom Template with the new file name."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:40
+msgid "Adding PHP Code To My Custom Templates?"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:43
+msgid ""
+"When you add PHP code to your Custom Templates be sure to wrap it in &lt;?"
+"php ?&gt; tags."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:49
+msgid ""
+"To use shortcodes inside a Custom Template you need to wrap the [shortcode] "
+"in the"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:55
+msgid ""
+"<strong>Note</strong>, however, that there may be cases where square "
+"bracketed text is not shortcode text in which case you'd either need to "
+"manually add the do_shortcode() function to any actual shortcodes in that "
+"Template or just make sure to remove the do_shortcode() function code that "
+"is wrapped around any non-shortcode text."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:61
+msgid ""
+"Be sure that each of your Custom Templates has a file name given to it. "
+"Failure to do this may result in the inability to Save your Custom Option "
+"settings."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:64
+msgid "**Important Information About Naming Your Custom Template**"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:67
+msgid ""
+"Be sure not to use \"functions\", \"home\", or \"landing\" as your "
+"template's File Name as this may overwrite such default files found in the "
+"root of your Child Theme folder."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:75
+msgid "Custom Template successfully added."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:79
+msgid "Custom Template successfully deleted."
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:95
+#: lib/admin/boxes/custom-templates.php:117
+msgid ".php | Template Name"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:99
+msgid "Conditional Tag: <code>is_page_template('my-templates/"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:99
+msgid ".php')</code>"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:103
+msgid "This Template"
+msgstr ""
+
+#: lib/admin/boxes/custom-templates.php:103
+msgid "All Templates"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:11
+#: lib/admin/boxes/settings-import-export.php:54
+#: lib/admin/boxes/settings-import-export.php:93
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:14
+msgid "Widgets, Widgets and More Widgets!"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:17
+msgid ""
+"The Custom Widget Areas option makes it not only super easy to create an "
+"unlimited number of Custom Widget Areas, but then dictate their placement on "
+"your site using various Custom Conditionals (or if you don't want to "
+"restrict their placement just leave your Conditionals un-selected)."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:23
+msgid ""
+"Give your Custom Widget Area a Name, select a Hook Location from the drop-"
+"down menu provided and then, if you would like to restrict the types of "
+"pages/posts your Custom Widget Area displays on, you can select various "
+"Conditionals you've created by checking the boxes in the Conditionals drop-"
+"down menu. Those few steps are all you need to take to successfully create a "
+"Custom Widget Area."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:27
+msgid "Once created you can add Widgets to this new Widget Area by going to"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:28
+msgid "<b>(Appearance > Widgets)</b>"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:29
+msgid "and dragging the Widgets into your Widget Area."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:32
+msgid "What Happens When You Change The Name of A Custom Widget Area?"
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:35
+msgid ""
+"The name of a Custom Widget Area acts as it's ID so when you change that "
+"name it does not rename the Widget Area, but instead it creates a duplicate "
+"Custom Widget Area with the new name."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:41
+msgid ""
+"The Custom Widget Areas option provides a few advanced features that you may "
+"find useful at some point. First, you can give these Widget Areas a Custom "
+"Class so you can uniquely style it with CSS if you need to. Also, by setting "
+"a Priority you can gain even more control over the placement of your Custom "
+"Widget Areas."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:45
+msgid ""
+"Sometimes you may add multiple Custom Widget Areas and/or Hook Boxes to the "
+"same Hook Location. In these cases the Priority option becomes useful. When "
+"adding a Priority you should start with the number 10 as a baseline as this "
+"is usually the defualt Priority level in WordPress. You could give one "
+"Widget Area or Hook Box a Priority of 10 and another 11 or 9 and these "
+"Custom Content areas will display before or after accordingly."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:49
+msgid ""
+"Finally, you'll notice that you can easily turn these Custom Widgets on or "
+"off with the \"Activate\" option. This is useful when you don't want to "
+"delete your Custom Widget, but would like to remove it from your site for "
+"the time being."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:55
+msgid ""
+"To use a Shortcode to display a Widget Area, use: [YOUR WIDGET AREA NAME "
+"HERE] In other words, just take the Name you gave your Widget Area and wrap "
+"it in square brackets."
+msgstr ""
+
+#: lib/admin/boxes/custom-widget-areas.php:61
+msgid ""
+"Be sure that each of your Custom Widget Areas has a name given to it. "
+"Failure to do this may result in the inability to Save your Custom Option "
+"settings."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:10
+msgid "General Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:16
+msgid "Static Homepage"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:20
+msgid "Activate the Genesis Extender Static Homepage"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:25
+msgid "Take Control of Your Homepage:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:27
+msgid ""
+"When activated, the Genesis Extender Static Homepage feature allows you to "
+"gain different levels of control over the homepage of your Genesis powered "
+"website."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:32
+msgid "Select An EZ Home Widget Area Structure:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:37
+msgid "Quick & Easy Homepage Setup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:38
+msgid ""
+"The following drop-down menu provides dozens of possible homepage Widget "
+"Area Structures to choose from. When selected you will not only find your "
+"Widget Area Structure displaying on your homepage, but corresponding Widget "
+"Areas will be available in Appearance > Widgets, ready for you to add your "
+"content."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:40
+msgid ""
+"<strong>Please Note:</strong> You can also leave this feature \"Disabled\" "
+"and build your own Custom Homepage using the Custom Widget Areas and Hook "
+"Boxes, following"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:41
+msgid "THIS TUTORIAL"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:42
+msgid ""
+"Or you can even combine the two and create some crazy awesome static "
+"homepage setups!"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:49
+msgid "Examples"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:53
+msgid "EZ Home Structure Reference Examples:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:58
+msgid "Static Homepage Type:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:59
+msgid "Full Page"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:60
+msgid "Content Column"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:65
+msgid "Full Page:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:67
+msgid ""
+"When \"Full Page\" is selected the Static Homepage area takes over the "
+"entire #inner div area (ie. both the Content Column and Sidebars are "
+"replaced)."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:70
+msgid "Content Column:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:72
+msgid ""
+"When \"Content Column\" is selected the Static Homepage area only takes up "
+"the space inside the main #content div. This is ideal if you still want to "
+"use the Primary, and possibly Secondary, Sidebars on your Static Homepage."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:77
+msgid "Static Homepage Layout:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:78
+msgid "Content-Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:79
+msgid "Sidebar-Content"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:80
+msgid "Content-Sidebar-Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:81
+msgid "Sidebar-Sidebar-Content"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:82
+msgid "Sidebar-Content-Sidebar"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:83
+msgid "Full Width Content"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:89
+msgid ""
+"<strong>Please Note:</strong> Depending on the Genesis Child Theme you are "
+"using some of the Static Homepage Layouts listed may not work. This is "
+"because some Child Themes un-register certain Genesis Layouts, restricting "
+"which ones you can use."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:93
+msgid ""
+"So if a certain layout does not work then this is most likely the cause and "
+"you will just need to select one that does work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:102
+msgid "Page Titles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:106
+msgid "Remove All Page Titles"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:111
+msgid "Why Remove Page Titles:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:113
+msgid ""
+"Sometimes you just don't want certain Page Titles to display. Maybe you want "
+"to add your own H1 wrapped Title or maybe your Page content just doesn't "
+"need or work well with a Title. Either way, these options provide a quick "
+"and easy solution to this need. And note that this does not just Hide your "
+"Page Titles from view as the Genesis Extender Options > Hide option would "
+"do, but instead this physically removes your Page Titles from the source "
+"code."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:116
+msgid "How To Remove Page Titles:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:118
+msgid ""
+"You have two choices here. Remove ALL Page Titles or just ones specified by "
+"their Page ID's. Note that you can reference your current Page ID's by "
+"clicking on the [IDs] link below. Also, be sure to comma separate your ID's "
+"(with no spaces), but leave off the trailing comma. So if you wanted to "
+"remove a Page Title from a Page with an ID of 27 and one with an ID of 113 "
+"and one with an ID of 279 you would add this below: <strong>27,113,279</"
+"strong>"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:123
+msgid "Remove Specific Page Titles By IDs: (ie. 2,17 etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:129
+msgid "Page ID Reference:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:144
+msgid "Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:148
+msgid "Include Theme In-Post Options With All Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:153
+msgid ""
+"How To Include Genesis/Extender In-Post Options With Your Custom Post Types:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:155
+msgid ""
+"With this option you can include Genesis and Genesis Extender In-Post "
+"Options with ALL Custom Post Types. If, however, you would only like to "
+"include the In-Post Options with specific Custom Post Types you can do so by "
+"including their Custom Post Type Names. Note that you can reference your "
+"current Custom Post Type Names by clicking on the [Names] link below."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:159
+msgid "Learn more about Custom Post Types here:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:166
+msgid "Include Theme In-Post Options With Specific Custom Post Types"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:171
+msgid ""
+"Be sure to comma separate your Names (with no spaces), but leave off the "
+"trailing comma. So if you wanted to Include Genesis/Extender In-Post Options "
+"with a Custom Post Type with a Name of product and one with a Name of "
+"recipes and one with a Name of songs you would add this below: "
+"<strong>products,recipes,songs</strong>"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:175
+msgid ""
+"<strong>Note:</strong> Some Plugins use Custom Post Types for their options "
+"and functionality so you may see names in the [Names] reference box that are "
+"not your own. In these cases just ignore those names and use the ones you "
+"know are yours."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:180
+msgid "Add Custom Post Type Names Below: (ie. products,recipes etc.)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:186
+msgid "Custom Post Type Name Reference"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:210
+msgid "WordPress Post Formats"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:214
+msgid "Activate WordPress Post Formats"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:220
+msgid ""
+"By activating this Post Formats Functionality you will be enabling a feature "
+"inside your Post Editor that allows the selection of different Post Formats "
+"on a Per-Post basis."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:223
+msgid ""
+"Activating this feature will also enable a function that looks for a \"post-"
+"formats\" folder inside your /wp-content/themes/[CHILD THEME NAME]/images/ "
+"directory and if it finds this folder it will use any appropriately named "
+"icons inside it and display them to the right of your Post Title."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:226
+msgid ""
+"By \"appropriately named\" we mean PNG images given the name of the Post "
+"Format (eg. gallery.png, chat.png, etc...)"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:239
+msgid "Stylesheet Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:243
+msgid "Include Genesis \"Column Classes\" with the Default Stylesheet"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:249
+msgid ""
+"Genesis Extender relies on the Genesis \"Column Class\" styles to properly "
+"display the EZ Home Widget Areas, among other things. Most current Genesis "
+"Child Themes include these styles, but some older Child Themes do not. In "
+"such cases you can activate this option to have Genesis Extender include "
+"them in its own Default stylesheet."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:254
+msgid "Combine & Minify The Default & Custom Stylesheets"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:260
+msgid ""
+"When this option is active both the default.css and genesis-extender-custom."
+"css files are combined into one genesis-extender-minified.css file for "
+"greater overall efficiency."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:263
+msgid ""
+"All of these files are located in your /wp-content/uploads/genesis-extender/"
+"plugin/ directory."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:275
+msgid "Custom Thumbnail Sizes"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:278
+msgid "Creating Different Thumbnail Sizes:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:280
+msgid ""
+"To set a Custom Thumbnail Image Size you just set the Mode (Resize or Crop) "
+"and both the Width and Height for each Custom Thumbnail option. You do not "
+"have to set any of them or you can just set one or two. They are only there "
+"if you need them."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:284
+msgid ""
+"Once set you will be able to access them through both the Thumbnail Size "
+"drop-down menu in any of your Genesis Featured Posts/Page Widgets."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:287
+msgid "Resize vs Crop:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:289
+msgid ""
+"Both Mode options resize the images, but the Crop option will actually crop "
+"your images, if necessary, to ensure your exact image size is obtained. With "
+"the Resize option you will retain the aspect ratio of your images, but "
+"therefore not see your exact dimensions reached."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:292
+msgid "Regenerating Thumbnails:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:294
+msgid ""
+"If you set a new Custom Thumbnail Size AFTER an image has been uploaded/"
+"added to a WordPress Post/Page then you may need to regenerate your "
+"thumbnails to have your new Thumbnail Size take effect. You can easily do "
+"this with the <a href=\"http://wordpress.org/extend/plugins/regenerate-"
+"thumbnails/\" target=\"_blank\">Regenerate Thumbnails WordPress Plugin</a>."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:300
+msgid "Please Note The Following For Proper Use:"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:303
+msgid "- The \"Mode\" value must be set for the Custom Thumbnail to work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:307
+msgid "- custom-thumb-1 must be set in order for thumb-2 through 5 to work."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:312
+msgid "custom-thumb-1"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:315
+#: lib/admin/boxes/settings-general.php:330
+#: lib/admin/boxes/settings-general.php:345
+#: lib/admin/boxes/settings-general.php:360
+#: lib/admin/boxes/settings-general.php:375
+msgid "Mode"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:318
+#: lib/admin/boxes/settings-general.php:333
+#: lib/admin/boxes/settings-general.php:348
+#: lib/admin/boxes/settings-general.php:363
+#: lib/admin/boxes/settings-general.php:378
+msgid "Resize"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:319
+#: lib/admin/boxes/settings-general.php:334
+#: lib/admin/boxes/settings-general.php:349
+#: lib/admin/boxes/settings-general.php:364
+#: lib/admin/boxes/settings-general.php:379
+msgid "Crop"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:321
+#: lib/admin/boxes/settings-general.php:336
+#: lib/admin/boxes/settings-general.php:351
+#: lib/admin/boxes/settings-general.php:366
+#: lib/admin/boxes/settings-general.php:381
+msgid "Width"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:322
+#: lib/admin/boxes/settings-general.php:337
+#: lib/admin/boxes/settings-general.php:352
+#: lib/admin/boxes/settings-general.php:367
+#: lib/admin/boxes/settings-general.php:382
+msgid "Height"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:327
+msgid "custom-thumb-2"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:342
+msgid "custom-thumb-3"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:357
+msgid "custom-thumb-4"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:372
+msgid "custom-thumb-5"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:397
+msgid "Genesis HTML5 Markup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:401
+msgid "Activate Genesis HTML5 Markup"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:407
+msgid ""
+"By activating this HTML5 Markup option you will be enabling a Genesis "
+"framework feature that outputs HTML5 markup in place of the old XHTML tags."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:410
+msgid ""
+"<strong>Please Note:</strong> Since the enabling of this feature changes "
+"some of the HTML markup of Genesis you may find that some of your Custom "
+"CSS, if you have added any at this point, may need to be tweaked to maintain "
+"the design changes made by such CSS. In light of this you may find the "
+"following link useful: "
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:411
+msgid "GENESIS XHTML TO HTML5 CSS CONVERTER"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:414
+msgid ""
+"<strong>Also Note:</strong> The \"Hook\" setting for both Custom Widget "
+"Areas and Custom Hook Boxes (found in the \"Dynamik Custom\" admin section) "
+"have both \"HTML5 Conent Hooks\" and \"Pre-HTML5 Content Hooks\". When this "
+"HTML5 Markup option is enabled use the \"HTML5 Content Hooks\". When it is "
+"disabled use the \"Pre-HTML5 Content Hooks\"."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:423
+msgid "Genesis \"Fancy Dropdowns\""
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:427
+msgid "Enable Genesis Menu \"Fancy Dropdowns\""
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:433
+msgid ""
+"With this feature enabled your Primary and Secondary Genesis menus, where "
+"sub-menus are present, will include sub-indicators as well as the \"fancy "
+"dropdown\" effect."
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:437
+msgid ""
+"<strong>Please Note:</strong> This is only necessary when Genesis HTML5 is "
+"active. When HTML5 is not active you can adjust this settings in"
+msgstr ""
+
+#: lib/admin/boxes/settings-general.php:438
+msgid "Theme Settings > Navigation > \"Load Superfish Script?\""
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:15
+msgid ""
+"Settings/Custom Import Error: Import File Must Be In .dat Format (ie. "
+"my_backup.dat)"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:19
+msgid "Settings/Custom Import Complete"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:25
+msgid "Genesis Extender Settings/Custom Import/Export"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:31
+msgid "Export Settings/Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:33
+#: lib/admin/boxes/settings-import-export.php:72
+msgid "Plugin Settings"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:33
+msgid "Export File Name:"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:42
+#: lib/admin/boxes/settings-import-export.php:81
+msgid "Custom JS"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:60
+#: lib/admin/boxes/settings-import-export.php:99
+msgid "Uploaded Images"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:60
+msgid "Export Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:70
+msgid "Import Settings/Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-import-export.php:99
+msgid "Import Custom Options"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:15
+msgid ""
+"It appears that some of your files/folders are unwritable to Genesis "
+"Extender."
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:21
+msgid "Genesis Extender General Information"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:23
+msgid "Using The Genesis Extender [?]Tooltips"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:26
+msgid ""
+"Genesis Extender has valuable documentation spread through the admin "
+"interface in the form of [?]Tooltips. If you find an option or setting to be "
+"unclear, chances are the nearest Tooltip will provide explanation."
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:29
+msgid ""
+"To use the Tooltips just click on the [?] symbol to bring up the Tooltip "
+"Content Box. To close the Tooltip move your mouse pointer away from the [?] "
+"symbol. If you move your mouse pointer into the Tooltip itself then you must "
+"hover your mouse pointer over the [?] symbol to close the tooltip."
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:37
+msgid "Version Information"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:40
+msgid "PHP Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:44
+msgid "WordPress Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:48
+msgid "Genesis Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:53
+msgid "Child Theme Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:58
+msgid "Genesis Extender Version:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:70
+msgid "Genesis Extender Links & Resources"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:72
+msgid "Genesis Extender Resources"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:75
+msgid ""
+"For a selection of informational resources, including screencasts and "
+"tutorials, visit:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:81
+msgid "Genesis Extender Support"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:84
+msgid "1. Check out the knowledgebase:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:91
+msgid "2. Use the form to email support on the \"My Account\" page:"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:97
+msgid "Make Money Promoting Genesis Extender"
+msgstr ""
+
+#: lib/admin/boxes/settings-plugin-info.php:100
+msgid ""
+"To help promote Genesis Extender and get a share of all sales you help to "
+"generate, join our affiliate program:"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:633
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:650
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/admin/metaboxes/init.php:656
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lib/functions/genesis-extender-build-styles.php:34
+msgid "Combined & Minified CSS"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:69
+msgid "Please select a file to upload."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:179
+msgid "Your image has been uploaded."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:184
+msgid "This is not a valid filetype.  Valid filetypes are JPG, GIF and PNG."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:249
+msgid "Filename:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:251
+msgid "Width:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:253
+msgid "Height:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:255
+msgid "Filesize:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:258
+msgid "Select this image for Bulk Delete"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:260
+#: lib/functions/genesis-extender-image-uploader.php:280
+#: lib/functions/genesis-extender-image-uploader.php:324
+#: lib/functions/genesis-extender-image-uploader.php:345
+msgid "Rename Image"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:261
+#: lib/functions/genesis-extender-image-uploader.php:374
+#: lib/functions/genesis-extender-image-uploader.php:444
+#: lib/functions/genesis-extender-image-uploader.php:465
+msgid "Delete Image"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:282
+msgid "Current Filename:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:284
+msgid "Rename to:"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:287
+#: lib/functions/genesis-extender-image-uploader.php:379
+msgid "Cancel"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:326
+#: lib/functions/genesis-extender-image-uploader.php:347
+#: lib/functions/genesis-extender-image-uploader.php:446
+#: lib/functions/genesis-extender-image-uploader.php:467
+msgid "You did not supply a filename."
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:327
+#: lib/functions/genesis-extender-image-uploader.php:348
+#: lib/functions/genesis-extender-image-uploader.php:447
+#: lib/functions/genesis-extender-image-uploader.php:468
+msgid "OK"
+msgstr ""
+
+#: lib/functions/genesis-extender-image-uploader.php:376
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:21
+msgid "Genesis Extender Settings"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:25
+msgid "Genesis Extender Admin Menus"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:28
+msgid "Disable Genesis Extender Settings Submenu?"
+msgstr ""
+
+#: lib/functions/genesis-extender-user-meta.php:30
+msgid "Disable Genesis Extender Custom Submenu?"
+msgstr ""
